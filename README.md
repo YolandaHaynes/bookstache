@@ -1,7 +1,7 @@
 An app that displays and keeps track a collection of the user owned books. It can display various info about like ISBN, Title, Author, image, and description. 
 
 To see Live Demo please go to the link below:
-https://bookstache.herokuapp.com/
+https://bookstache.com/
 
 If you would like to login-in, use demo sign in below:
 username: demo@example.com
