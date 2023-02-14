@@ -1,3 +1,10 @@
+Updating the project please visit 
+
+frontend: https://github.com/YolandaHaynes/bookstache-react
+
+backend: https://github.com/YolandaHaynes/bookstache-backend
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 An app that displays and keeps track a collection of the user owned books. It can display various info about like ISBN, Title, Author, image, and description. 
 
 To see Live Demo please go to the link below:
