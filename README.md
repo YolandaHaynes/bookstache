@@ -1,4 +1,8 @@
-Updating the project please visit 
+Updating the project, please visit 
+
+https://github.com/YolandaHaynes/bookstache-redwood
+
+below was my past ideas on how I was to convert my CRUD app:
 
 frontend: https://github.com/YolandaHaynes/bookstache-react
 
